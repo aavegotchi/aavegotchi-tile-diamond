@@ -1,0 +1,16 @@
+build/*
+artifacts/*
+contracts/test/artifacts/*
+contracts/GBM/artifacts/*
+contracts/Helpers/artifacts/*
+.env
+node_modules/
+yarn-error.log
+.vscode
+logs/hardhat
+logs/kovan
+cache
+cache/
+logs
+typechain
+bin
